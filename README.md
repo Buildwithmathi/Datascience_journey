@@ -138,7 +138,7 @@ Learning how to build real-world projects step by step.
 
 🐙 GitHub: https://github.com/buildwithmathi
 
-💼 LinkedIn: Coming Soon
+💼 LinkedIn: https://www.linkedin.com/in/sumathi-thirunavukkarasu-a976163a6
 
 🌐 Portfolio: Coming Soon
 
